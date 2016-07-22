@@ -170,7 +170,7 @@ input {
 .dmbutton:active,
 .dmbutton:focus{
 	color: #ffffff;
-	background-color: #222222;
+	background-color: #455453;
 	border-color: #ffffff;
 }
 .dmbutton {
@@ -278,8 +278,7 @@ input {
 {
 	height:100%;
 	width:100%;
-	background-color:#00b3fe;
-	background-color:rgba(0,179,254,.9);
+	background-color:#809691;
 	text-align:center;
 }
 
