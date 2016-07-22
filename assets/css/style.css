@@ -381,3 +381,11 @@ input {
 .pp_description{
 	color: black;
 }
+
+#intro{
+	margin-top: 50px;
+}
+
+#scroll{
+	margin-top:50px
+}
