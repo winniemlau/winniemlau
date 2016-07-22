@@ -160,8 +160,8 @@ input {
 	border: 2px solid white;
 }
 .btn-clear:hover {
-	background: white;
-	color: #2f2f2f;
+	background: transparent;
+	color: #455453;
 }
 
 
@@ -381,4 +381,12 @@ input {
 
 * {
   border-radius: 0 !important;
+}
+
+#github, #linkedin, #email {
+	font-size: 5em;
+}
+
+.network-name {
+	font-size: 2em;
 }
